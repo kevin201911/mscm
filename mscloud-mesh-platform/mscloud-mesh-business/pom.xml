@@ -12,7 +12,7 @@
     <artifactId>mscloud-mesh-business</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>user-center</module>
+        <module>system-center</module>
     </modules>
 
 

@@ -14,13 +14,13 @@
     <description>通用组件</description>
     <modules>
         <module>mscloud-auth</module>
-        <module>mscloud-spring-boot-starter</module>
-        <module>mscloud-db-spring-boot-starter</module>
-        <module>mscloud-log-spring-boot-starter</module>
-        <module>mscloud-ribbon-spring-boot-starter</module>
-        <module>mscloud-redis-spring-boot-starter</module>
-        <module>mscloud-sentinel-spring-boot-starter</module>
-        <module>mscloud-swagger2-spring-boot-starter</module>
+        <module>mscloud-springboot</module>
+        <module>mscloud-db</module>
+        <module>mscloud-log</module>
+        <module>mscloud-ribbon</module>
+        <module>mscloud-redis</module>
+        <module>mscloud-sentinel</module>
+        <module>mscloud-swagger2</module>
     </modules>
 
 

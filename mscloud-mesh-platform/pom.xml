@@ -11,7 +11,7 @@
         <module>mscloud-mesh-business</module>
         <module>mscloud-common</module>
         <module>mscloud-mesh-config</module>
-        <module>mscloud-mesh-user</module>
+        <module>mscloud-oauth</module>
         <module>mscloud-mesh-gateway</module>
     </modules>
 
