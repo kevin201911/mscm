@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zuul-gateway" />
+        <module name="mscloud-db-spring-boot-starter" />
+        <module name="mscloud-redis-spring-boot-starter" />
+        <module name="mscloud-mesh-config" />
+        <module name="mscloud-spring-boot-starter" />
+        <module name="mscloud-auth" />
+        <module name="mscloud-swagger2-spring-boot-starter" />
+        <module name="mscloud-ribbon-spring-boot-starter" />
+        <module name="user-center" />
+        <module name="mscloud-mesh-user" />
+        <module name="mscloud-log-spring-boot-starter" />
+        <module name="mscloud-sentinel-spring-boot-starter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cms-center" target="1.8" />
+      <module name="code-generator" target="1.8" />
+      <module name="file-center" target="1.8" />
+      <module name="good-center" target="1.8" />
+      <module name="market-center" target="1.8" />
+      <module name="member-center" target="1.8" />
+      <module name="mscloud-mesh-gateway" target="1.8" />
+      <module name="order-center" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

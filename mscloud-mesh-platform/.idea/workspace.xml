@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71f4329f-b911-46b4-87f2-b4ddcb9b56fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/config/prod.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/css/app.9f499fa96ae9c1878fc7250e4e06fee2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/css/app.9f499fa96ae9c1878fc7250e4e06fee2.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/fonts/element-icons.6f0a763.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/img/gif_404.6b8ae1d.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/img/login_center_bg.5307896.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/0.0d4fa986f8090b8074a1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/0.0d4fa986f8090b8074a1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/1.1b8d8e048d811366762f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/1.1b8d8e048d811366762f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/10.83b83b79eada5b6aabcc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/10.83b83b79eada5b6aabcc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/11.b376301febfb980061ec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/11.b376301febfb980061ec.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/12.38ba29b172d7c2e5c6fe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/12.38ba29b172d7c2e5c6fe.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/13.b13fd945b4b6e8863279.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/13.b13fd945b4b6e8863279.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/14.319067f8dd35ce1c07bd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/14.319067f8dd35ce1c07bd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/15.b260da21051c6c868bb8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/15.b260da21051c6c868bb8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/16.74bae828338b2ff7312b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/16.74bae828338b2ff7312b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/17.0bec81dbcf7cdb250b5f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/17.0bec81dbcf7cdb250b5f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/18.a63aa8a4fb4448a5a883.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/18.a63aa8a4fb4448a5a883.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/19.9d915b462650c8b69551.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/19.9d915b462650c8b69551.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/2.fd92d48113e44819dc2d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/2.fd92d48113e44819dc2d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/20.5b58bb928381ed22c23b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/20.5b58bb928381ed22c23b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/21.3575e5af228ae9258b8f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/21.3575e5af228ae9258b8f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/22.6411cd79532afd09cd1e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/22.6411cd79532afd09cd1e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/23.4df37ecd1b1f8ae3e8b3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/23.4df37ecd1b1f8ae3e8b3.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/24.f85d9385a710879f4b63.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/24.f85d9385a710879f4b63.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/25.c1b4ea5d5c4ced25ad4a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/25.c1b4ea5d5c4ced25ad4a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/26.9a8800e2be1b2f5c142b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/26.9a8800e2be1b2f5c142b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/27.c5e54df6f91466442b4c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/27.c5e54df6f91466442b4c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/28.d47454df0b096689d4fe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/28.d47454df0b096689d4fe.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/29.c594f90dc2511a7e2310.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/29.c594f90dc2511a7e2310.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/3.b7ac0898430d4ba99d89.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/3.b7ac0898430d4ba99d89.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/30.50b430447f3117a793cd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/30.50b430447f3117a793cd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/31.6d256cc6da83b3f4b09d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/31.6d256cc6da83b3f4b09d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/32.51737b8b4a91142e93e8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/32.51737b8b4a91142e93e8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/33.147420d7512161d1cd41.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/33.147420d7512161d1cd41.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/34.f6a3cd29f97cc375f32c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/34.f6a3cd29f97cc375f32c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/35.95dbfcbd98ceed28dbea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/35.95dbfcbd98ceed28dbea.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/36.896a62ab53a976c6070b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/36.896a62ab53a976c6070b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/37.c760dc91077d8bdf6a4c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/37.c760dc91077d8bdf6a4c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/38.1ba66b4e3d432a871449.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/38.1ba66b4e3d432a871449.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/39.1cfe5de7319b2839930d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/39.1cfe5de7319b2839930d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/4.ec713211c1c9bb30c4ad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/4.ec713211c1c9bb30c4ad.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/40.a911a4570a7dbeffab99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/40.a911a4570a7dbeffab99.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/41.e799914a3098653ebd23.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/41.e799914a3098653ebd23.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/42.9881b79f8e7c8bd13bd6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/42.9881b79f8e7c8bd13bd6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/43.c6db665ea4ef744583a3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/43.c6db665ea4ef744583a3.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/44.bf02cf120694333380e0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/44.bf02cf120694333380e0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/45.cecf3ffd313cc43732df.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/45.cecf3ffd313cc43732df.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/46.f3e2abc9702d4c403b73.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/46.f3e2abc9702d4c403b73.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/47.d75820ffd1f28f1594df.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/47.d75820ffd1f28f1594df.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/48.ef3beb51fc05c17ff976.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/48.ef3beb51fc05c17ff976.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/49.21a45b68ad659e209ac0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/49.21a45b68ad659e209ac0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/5.f1fe95d41feca7a1a155.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/5.f1fe95d41feca7a1a155.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/50.c476dd7c44449cab5568.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/50.c476dd7c44449cab5568.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/51.fc24439cc2f55f30b257.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/51.fc24439cc2f55f30b257.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/52.0bff6a3fc60576831e72.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/52.0bff6a3fc60576831e72.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/53.3f5bd671b6c24a167bdd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/53.3f5bd671b6c24a167bdd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/54.6f25b70878a83d28220b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/54.6f25b70878a83d28220b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/55.1aba9201836ea77172d6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/55.1aba9201836ea77172d6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/56.25a7361fbaae92507489.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/56.25a7361fbaae92507489.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/57.3ed91a5dfa63b9d566ea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/57.3ed91a5dfa63b9d566ea.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/58.82263f6a3855e4db0a02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/58.82263f6a3855e4db0a02.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/59.fceca9c6cd49f074c30e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/59.fceca9c6cd49f074c30e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/6.92996bd2fc2451334021.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/6.92996bd2fc2451334021.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/60.7ea415ef02bcf02201da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/60.7ea415ef02bcf02201da.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/61.2bebb03cb61b175253b9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/61.2bebb03cb61b175253b9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/62.406ddeaf1b24b2ad8cf9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/62.406ddeaf1b24b2ad8cf9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/63.8348a5db0844a33fc19e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/63.8348a5db0844a33fc19e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/64.603b0c9241bd4e900bf0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/64.603b0c9241bd4e900bf0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/65.a94272164b5c9d75aff4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/65.a94272164b5c9d75aff4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/66.7179ac07bec86eec8628.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/66.7179ac07bec86eec8628.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/67.fee96ea42eea710e477e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/67.fee96ea42eea710e477e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/68.4dff3b2fb603ef68eb91.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/68.4dff3b2fb603ef68eb91.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/69.b0606195800e61ea5a95.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/69.b0606195800e61ea5a95.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/7.51edfa2981a4b9fd6a68.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/7.51edfa2981a4b9fd6a68.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/70.674b5a78894c8cb530db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/70.674b5a78894c8cb530db.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/71.a77b31716905c89372b8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/71.a77b31716905c89372b8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/72.6c1168b191592008e379.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/72.6c1168b191592008e379.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/73.d3871a8f326618788f3f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/73.d3871a8f326618788f3f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/74.103b51df5d3105ca4e4b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/74.103b51df5d3105ca4e4b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/75.db989b9c5bd4e872c89f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/75.db989b9c5bd4e872c89f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/76.4bd7efe3174628324895.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/76.4bd7efe3174628324895.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/77.cdf539fb053d241f6806.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/77.cdf539fb053d241f6806.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/78.7e6962f8781a559337e6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/78.7e6962f8781a559337e6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/79.93ad55c866e77966ae61.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/79.93ad55c866e77966ae61.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/8.cc3e9be9c29a054bf09a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/8.cc3e9be9c29a054bf09a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/80.8d86c2b5647ec00940ac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/80.8d86c2b5647ec00940ac.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/81.7a54f77ef5685435c68f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/81.7a54f77ef5685435c68f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/82.a363d678669c61986bd0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/82.a363d678669c61986bd0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/83.b864b76f8aa2df53e064.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/83.b864b76f8aa2df53e064.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/84.d371e4acaf3daaca0c7c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/84.d371e4acaf3daaca0c7c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/85.c0b9d6954d9c7116ba37.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/85.c0b9d6954d9c7116ba37.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/86.32608b8f0f2202c8e633.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/86.32608b8f0f2202c8e633.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/87.b94a9166d543bb09dfe6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/87.b94a9166d543bb09dfe6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/88.ee3ecbeda2a34375362d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/88.ee3ecbeda2a34375362d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/89.efd0e68dba56dc762edb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/89.efd0e68dba56dc762edb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/9.36e267cb1a473f300c1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/9.36e267cb1a473f300c1c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/90.e956fca0de5210433b1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/90.e956fca0de5210433b1c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/91.ebf2ef96673044e59f2b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/91.ebf2ef96673044e59f2b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/92.cec557cd7d0af542c20c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/92.cec557cd7d0af542c20c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/93.d8243c9afc402d21df99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/93.d8243c9afc402d21df99.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/94.068d801945b1d0bfa274.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/94.068d801945b1d0bfa274.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/95.d53b36b864e0e00eb4e4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/95.d53b36b864e0e00eb4e4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/app.ee06befe0493c9a787fb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/app.ee06befe0493c9a787fb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/manifest.45350fc7fbfbb8971d51.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/manifest.45350fc7fbfbb8971d51.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/vendor.845974de17c29516f285.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/js/vendor.845974de17c29516f285.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/langs/zh_CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/codesample/css/prism.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-cool.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-cry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-embarassed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-foot-in-mouth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-frown.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-innocent.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-kiss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-laughing.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-money-mouth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-sealed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-surprised.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-tongue-out.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-undecided.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-wink.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/emoticons/img/smiley-yell.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/plugins/visualblocks/css/visualblocks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/content.inline.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/content.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/fonts/tinymce-mobile.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/fonts/tinymce.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/fonts/tinymce.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/fonts/tinymce.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/fonts/tinymce.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/img/anchor.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/img/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/img/object.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/img/trans.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/skin.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/skins/lightgray/skin.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/dist/static/tinymce4.7.5/tinymce.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/api/sys/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/area.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/brand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/cms/help.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/cms/helpCategory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/cms/memberReport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/cms/prefrenceArea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/cms/subject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/cms/subjectCategory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/cms/subjectComment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/cms/topic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/cms/topicCategory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/cms/topicComment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/companyAddress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/coupon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/couponHistory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/flash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/flashProductRelation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/flashSession.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/gen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/api/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/homeAdvertise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/homeBrand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/homeSubject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/hotProduct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/api/sys/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/memberLevel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/newProduct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/orderSetting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/permission.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/api/sys/permission.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/prefrenceArea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/productAttr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/productAttrCate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/productCate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/returnApply.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/returnReason.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/role.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/api/sys/role.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/skuStock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/sms/group.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/sms/redPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/sms/userRedPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/subject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/sys/adminLog.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/api/sys/adminLog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/ums/member.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/ums/memberBlanceLog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/ums/memberLevel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/api/ums/school.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/store/modules/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/store/modules/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/404.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/404.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/help/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/help/components/HelpDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/help/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/help/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/helpCategory/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/helpCategory/components/HelpCategoryDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/helpCategory/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/helpCategory/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/memberReport/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/memberReport/components/MemberReportDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/memberReport/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/memberReport/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/prefrenceArea/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/prefrenceArea/components/PrefrenceAreaDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/prefrenceArea/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/prefrenceArea/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/subject/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/subject/components/SubjectDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/subject/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/subject/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/subjectCategory/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/subjectCategory/components/SubjectCategoryDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/subjectCategory/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/subjectCategory/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/subjectComment/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/subjectComment/components/SubjectCommentDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/subjectComment/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/subjectComment/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/topic/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/topic/components/TopicDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/topic/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/topic/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/topicCategory/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/topicCategory/components/TopicCategoryDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/topicCategory/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/topicCategory/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/cms/topicComment/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/home/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/home/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/layout/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/layout/components/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/layout/components/Sidebar/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/layout/components/Sidebar/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/login/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/login/reg.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/login/reg.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/oms/apply/applyDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/oms/apply/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/oms/apply/reason.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/oms/order/components/logisticsDialog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/oms/order/deliverOrderList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/oms/order/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/oms/order/orderDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/oms/order/setting.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/brand/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/brand/components/BrandDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/brand/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/brand/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/product/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/product/components/ProductAttrDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/product/components/ProductDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/product/components/ProductInfoDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/product/components/ProductRelationDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/product/components/ProductSaleDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/product/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/product/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/productAttr/addProductAttr.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/productAttr/components/ProductAttrDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/productAttr/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/productAttr/productAttrList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/productAttr/updateProductAttr.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/productCate/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/productCate/components/ProductCateDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/productCate/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/pms/productCate/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/advertise/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/advertise/components/HomeAdvertiseDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/advertise/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/advertise/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/brand/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/coupon/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/coupon/components/CouponDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/coupon/history.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/coupon/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/coupon/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/flash/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/flash/productRelationList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/flash/selectSessionList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/flash/sessionList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/group/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/group/components/GroupDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/group/detail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/group/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/group/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/hot/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/new/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/redPacket/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/redPacket/components/RedPacketDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/redPacket/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/redPacket/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/subject/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/userRedPacket/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/userRedPacket/components/UserRedPacketDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/userRedPacket/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sms/userRedPacket/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/admin/components/AdminDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/admin/components/AdminDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/admin/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/admin/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/area/components/AreaDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/area/components/AreaDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/area/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/area/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/permission/components/PermisiionDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/permission/components/PermisiionDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/permission/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/permission/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/role/components/RoleDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/role/components/RoleDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/role/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/mscloud-web/src/views/sys/role/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/member/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/member/components/MemberDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/member/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/member/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/memberBlanceLog/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/memberBlanceLog/components/MemberBlanceLogDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/memberBlanceLog/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/memberBlanceLog/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/memberLevel/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/memberLevel/components/MemberLevelDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/memberLevel/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/memberLevel/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/school/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/school/components/SchoolDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/school/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/mscloud-web/src/views/ums/school/update.vue" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TJg9UUP4edRdBmWvP97fCG1WXQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/mscloud-mesh-business/cms-center/src/main/java/com/mscloudmesh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4418872" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vue" />
+      <recent name="$PROJECT_DIR$/db-script" />
+      <recent name="$PROJECT_DIR$/mscloud-mesh-business/file-center/src/main" />
+      <recent name="$PROJECT_DIR$/mscloud-mesh-business/file-center/src/main/resources" />
+      <recent name="$PROJECT_DIR$/mscloud-mesh-business/file-center/src/main/java/com/mscloudmesh/file" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mscloud-common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserCenterApp">
+    <configuration name="CmsCenterApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cms-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mscloudmesh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mscloudmesh.CmsCenterApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGeneratorApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="code-generator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mscloudmesh.generator.CodeGeneratorApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileCenterApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="file-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mscloudmesh.file.FileCenterApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zuul-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mscloudmesh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mscloudmesh.GatewayApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsCenterApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="good-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mscloudmesh.goods.GoodsCenterApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkingCenterApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="market-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mscloudmesh.market.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mscloudmesh.market.MarkingCenterApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberCenterApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="member-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mscloudmesh.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mscloudmesh.member.MemberCenterApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderCenterApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mscloudmesh.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mscloudmesh.order.OrderCenterApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UaaServerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mscloud-mesh-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mscloudmesh.UaaServerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCenterApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mscloudmesh.UserCenterApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GatewayApp" />
+        <item itemvalue="Spring Boot.MarkingCenterApp" />
+        <item itemvalue="Spring Boot.MemberCenterApp" />
+        <item itemvalue="Spring Boot.OrderCenterApp" />
+        <item itemvalue="Spring Boot.CmsCenterApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f4329f-b911-46b4-87f2-b4ddcb9b56fd" name="Default Changelist" comment="" />
+      <created>1573183460519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573183460519</updated>
+      <workItem from="1573183461965" duration="790000" />
+      <workItem from="1573184258290" duration="2208000" />
+      <workItem from="1573186478343" duration="1030000" />
+      <workItem from="1573187515100" duration="7296000" />
+      <workItem from="1573196081250" duration="24749000" />
+      <workItem from="1573365882561" duration="16000" />
+      <workItem from="1573365904455" duration="2750000" />
+      <workItem from="1573470725058" duration="630000" />
+      <workItem from="1573471707292" duration="761000" />
+      <workItem from="1573735772642" duration="11603000" />
+      <workItem from="1573825365293" duration="6292000" />
+      <workItem from="1573957078194" duration="50000" />
+      <workItem from="1573957135258" duration="40000" />
+      <workItem from="1573957178565" duration="19000" />
+      <workItem from="1573957206379" duration="48000" />
+      <workItem from="1573957256706" duration="18000" />
+      <workItem from="1573957277930" duration="136000" />
+      <workItem from="1573957418731" duration="80000" />
+      <workItem from="1573957515130" duration="8664000" />
+      <workItem from="1574051218720" duration="11931000" />
+      <workItem from="1574135600837" duration="17277000" />
+      <workItem from="1574563513253" duration="55000" />
+      <workItem from="1574565904028" duration="2199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/mscloud-mesh-user/src/main/java/com/mscloudmesh/oauth/handler/OauthLogoutHandler.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/mscloud-mesh-business/market-center/src/main/java/com/mscloudmesh/market/controller/SmsHomeBrandController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/mscloud-mesh-business/user-center/src/main/java/com/mscloudmesh/user/controller/SysRoleController.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/mscloud-mesh-user/src/main/java/com/mscloudmesh/oauth/service/impl/UserDetailServiceImpl.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE.jar!/org/springframework/security/oauth2/provider/authentication/OAuth2AuthenticationManager.class</url>
+          <line>48</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mscloud-mesh-user/src/main/java/com/mscloudmesh/oauth/service/impl/ClientServiceImpl.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mscloud-mesh-business/user-center/src/main/java/com/mscloudmesh/user/controller/SysMenuController.java</url>
+          <line>182</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mscloud-mesh-user/src/main/java/com/mscloudmesh/oauth/config/RestAuthenticationEntryPoint.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mscloud-mesh-user/src/main/java/com/mscloudmesh/oauth/filter/ValidateCodeFilter.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mscloud-mesh-business/member-center/src/main/java/com/mscloudmesh/member/controller/UmsMemberController.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mscloud-mesh-business/market-center/src/main/java/com/mscloudmesh/market/controller/SmsRedPacketController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/mscloud-mesh-business/user-center/src/main/java/com/mscloudmesh/user/service/ISysRoleService.java</url>
+          <line>21</line>
+          <properties class="com.mscloudmesh.user.service.ISysRoleService" method="userRoleCheck" />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
