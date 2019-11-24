@@ -16,6 +16,14 @@
   
   前端项目采用: vue+elment-ui+axios
    
+    node安装 下载地址:https://nodejs.org/zh-cn/download/releases/
+    
+    axios安装:
+    npm install axios
+
+    安装element-ui
+    npm i element-ui -S
+   
 
 
  
