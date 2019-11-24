@@ -32,7 +32,7 @@
   
   ├── mscloud-mesh-gateway -- 智能路由网关
   
-  ├── mscloud-oauth -- 用户安全验证
+  ├── mscloud-oauth -- 用户访问安全验证
   
   
   
