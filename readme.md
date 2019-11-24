@@ -5,7 +5,7 @@ mscm采用前后端分离
    
    mscloud-common:基础模块(包括统一日志管理、redis服务、断路监控、权限认证管理、swagger API文档管理、数据库管理等)
    
-   mscloud-mesh-business:业务服务模块(包含用户管理功能)
+   mscloud-mesh-business:业务服务模块(包含系统管理功能)
    
    mscloud-mesh-config:统一配置中心
    
