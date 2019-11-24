@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71f4329f-b911-46b4-87f2-b4ddcb9b56fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-common-log/target/classes/logback-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/target/classes/META-INF/spring.factories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/target/classes/limit.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-common-ribbon/target/classes/META-INF/spring.factories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-common-sentinel/target/classes/META-INF/spring.factories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-common-swagger2/target/classes/META-INF/spring.factories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/mapper/SysMenuMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/mapper/SysRoleMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/mapper/SysRolePermissionMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/mapper/SysUserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/mapper/SysUserRoleMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-mesh-config/target/classes/application-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-mesh-config/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-mesh-gateway/zuul-gateway/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-mesh-gateway/zuul-gateway/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-mesh-gateway/zuul-gateway/target/classes/pubkey.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/mall.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/mapper/ClientMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/pubkey.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/css/common.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/images/cut.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/images/logo_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/images/logowz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/js/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/zlt.jks" beforeDir="false" />
-    </list>
+    <list default="true" id="71f4329f-b911-46b4-87f2-b4ddcb9b56fd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
