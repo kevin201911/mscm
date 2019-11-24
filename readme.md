@@ -6,25 +6,25 @@
   
   ├── mscloud-common -- 通用服务
   
-      ├── mscloud-auth -- 权限验证服务
+      ├── mscloud-common-auth -- 权限验证服务
       
-      ├── mscloud-db-spring-boot-starter  -- 通用数据库服务
+      ├── mscloud-common-springboot  -- 通用spring-boot服务
       
-      ├── mscloud-log-spring-boot-starter -- 通用日志服务
+      ├── mscloud-common-db -- 通用数据库服务
       
-      ├── mscloud-redis-spring-boot-starter -- 通用redis服务
+      ├── mscloud-common-log -- 通用日志服务
       
-      ├── mscloud-ribbon-spring-boot-starter -- 通用ribbon服务
+      ├── mscloud-common-ribbon -- 通用ribbon服务
       
-      └── mscloud-sentinel-spring-boot-starter -- 通用链路追踪服务
+      └── mscloud-common-redis -- 通用redis服务
       
-      └── mscloud-spring-boot-starter -- 通用spring-boot服务
+      └── mscloud-common-sentinel -- 通用链路追踪服务 
       
-      └── mscloud-swagger2-spring-boot-starter -- 通用api文档服务
+      └── mscloud-common-swagger2 -- 通用api文档服务
       
   ├── mscloud-mesh-business -- 业务服务模块
   
-      └── user-center -- 用户及系统管理服务
+      └── system-center -- 用户及系统管理服务
       
   ├── components -- 通用组件封装
   
@@ -32,15 +32,12 @@
   
   ├── mscloud-mesh-gateway -- 智能路由网关
   
-  ├── mscloud-mesh-user -- 用户安全验证
+  ├── mscloud-oauth -- 用户访问安全验证
   
   
   
    
-   
-   
-   
-   
+   </br>
    
    注册中心采用Nacos:
 
@@ -66,7 +63,8 @@
    
   
   
-  
+  </br>
+  </br>
   前端项目技术选型:
   
     Vue         (https://vuejs.org/)
