@@ -8,17 +8,17 @@
   
       ├── mscloud-common-auth -- 权限验证服务
       
-      ├── mscloud-common-springboot  -- 通用数据库服务
+      ├── mscloud-common-springboot  -- 通用spring-boot服务
       
-      ├── mscloud-common-db -- 通用日志服务
+      ├── mscloud-common-db -- 通用数据库服务
       
-      ├── mscloud-common-log -- 通用redis服务
+      ├── mscloud-common-log -- 通用日志服务
       
       ├── mscloud-common-ribbon -- 通用ribbon服务
       
-      └── mscloud-common-redis -- 通用链路追踪服务
+      └── mscloud-common-redis -- 通用redis服务
       
-      └── mscloud-common-sentinel -- 通用spring-boot服务
+      └── mscloud-common-sentinel -- 通用链路追踪服务 
       
       └── mscloud-common-swagger2 -- 通用api文档服务
       
