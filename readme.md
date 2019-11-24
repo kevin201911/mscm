@@ -2,16 +2,23 @@ mscm采用前后端分离
  
  
  后端模块结构说明:
-   
-   mscloud-common:基础模块(包括统一日志管理、redis服务、断路监控、权限认证管理、swagger API文档管理、数据库管理等)
-   
-   mscloud-mesh-business:业务服务模块(包含系统管理功能)
-   
-   mscloud-mesh-config:统一配置中心
-   
-   mscloud-mesh-gateway:智能路由网关
-   
-   mscloud-mesh-user:统一api安全验证中心
+
+
+  ├── mscloud-common -- 通用服务
+      ├── mscloud-auth -- 权限验证服务
+      ├── mscloud-db-spring-boot-starter  -- 通用数据库服务
+      ├── mscloud-log-spring-boot-starter -- 通用日志服务
+      ├── mscloud-redis-spring-boot-starter -- 通用redis服务
+      ├── mscloud-ribbon-spring-boot-starter -- 通用ribbon服务
+      └── mscloud-sentinel-spring-boot-starter -- 通用链路追踪服务
+      └── mscloud-spring-boot-starter -- 通用spring-boot服务
+      └── mscloud-swagger2-spring-boot-starter -- 通用api文档服务
+  ├── mscloud-mesh-business -- 业务服务模块
+      └── user-center -- 用户及系统管理服务
+  ├── components -- 通用组件封装
+  ├── mscloud-mesh-config -- 统一配置中心
+  ├── mscloud-mesh-gateway -- 智能路由网关
+  ├── mscloud-mesh-user -- 用户安全验证
    
    
    
