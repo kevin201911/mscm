@@ -2,41 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71f4329f-b911-46b4-87f2-b4ddcb9b56fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/config/DefaultResourceServerConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/config/DefaultResourceServerConf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/config/DefaultSecurityHandlerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/config/DefaultSecurityHandlerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/config/TokenStoreConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/config/TokenStoreConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/constants/AuthoritiesEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/constants/AuthoritiesEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/properties/AuthProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/properties/AuthProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/properties/PermitProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/properties/PermitProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/properties/SecurityProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/properties/SecurityProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/properties/ValidateCodeProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/properties/ValidateCodeProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/service/IPermissionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/service/IPermissionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/service/impl/DefaultPermissionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/service/impl/DefaultPermissionServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/store/AuthDbTokenStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/store/AuthDbTokenStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/store/AuthJwtTokenStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/store/AuthJwtTokenStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/store/AuthRedisTokenStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/store/AuthRedisTokenStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/store/RedisTemplateTokenStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/store/RedisTemplateTokenStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/store/ResJwtTokenStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/store/ResJwtTokenStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-auth/src/main/java/com/mscloudmesh/oauth2/common/util/AuthUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-auth/src/main/java/com/mscloudmesh/oauth2/common/util/AuthUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-db/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-db/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-db/src/main/java/com/mscloudmesh/db/config/DateMetaObjectHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-db/src/main/java/com/mscloudmesh/db/config/DateMetaObjectHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-db/src/main/java/com/mscloudmesh/db/config/DefaultMybatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-db/src/main/java/com/mscloudmesh/db/config/DefaultMybatisPlusConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-db/src/main/java/com/mscloudmesh/db/mapper/SuperMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-db/src/main/java/com/mscloudmesh/db/mapper/SuperMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-log/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-log/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-log/src/main/java/com/mscloudmesh/log/monitor/PointUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-log/src/main/java/com/mscloudmesh/log/monitor/PointUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-log/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-log/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-redis/src/main/java/com/mscloudmesh/redis/RedisAutoConfigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/src/main/java/com/mscloudmesh/redis/RedisAutoConfigure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-redis/src/main/java/com/mscloudmesh/redis/constant/RedisToolsConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/src/main/java/com/mscloudmesh/redis/constant/RedisToolsConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-redis/src/main/java/com/mscloudmesh/redis/lock/RedisDistributedLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/src/main/java/com/mscloudmesh/redis/lock/RedisDistributedLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-redis/src/main/java/com/mscloudmesh/redis/properties/CacheManagerProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/src/main/java/com/mscloudmesh/redis/properties/CacheManagerProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-redis/src/main/java/com/mscloudmesh/redis/template/RedisRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/src/main/java/com/mscloudmesh/redis/template/RedisRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-redis/src/main/java/com/mscloudmesh/redis/util/RedisObjectSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/src/main/java/com/mscloudmesh/redis/util/RedisObjectSerializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-redis/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-redis/src/main/resources/limit.lua" beforeDir="false" afterPath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/src/main/resources/limit.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-common-log/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/target/classes/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-common-redis/target/classes/limit.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-common-ribbon/target/classes/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-common-sentinel/target/classes/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-common/mscloud-common-swagger2/target/classes/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/mapper/SysMenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/mapper/SysRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/mapper/SysRolePermissionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/mapper/SysUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-mesh-business/system-center/target/classes/mapper/SysUserRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-mesh-config/target/classes/application-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-mesh-config/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-mesh-gateway/zuul-gateway/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-mesh-gateway/zuul-gateway/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-mesh-gateway/zuul-gateway/target/classes/pubkey.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/mall.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/mapper/ClientMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/pubkey.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/images/cut.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/images/logo_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/images/logowz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/static/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mscloud-oauth/target/classes/zlt.jks" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
