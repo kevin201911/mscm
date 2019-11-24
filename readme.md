@@ -10,7 +10,13 @@
    
    mscloud-mesh-user:统一api安全验证中心
    
+   
+  
+  前端项目采用vue+elment-ui+axios
+   
 
+
+ 
 
   1.注册中心Nacos安装说明:
 
