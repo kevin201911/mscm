@@ -1,5 +1,17 @@
+ 模块说明:
+   
+   mscloud-common:基础模块
+   
+   mscloud-mesh-business:业务模块服务集群
+   
+   mscloud-mesh-config:统一配置中心
+   
+   mscloud-mesh-gateway:智能路由网关
+   
+   mscloud-mesh-user:统一api安全验证中心
 
-1.注册中心Nacos安装说明:
+
+  1.注册中心Nacos安装说明:
 
   Nacos安装
   前往 https://github.com/alibaba/nacos/releases 下载
