@@ -6,18 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mscloud-mesh-config" />
-        <module name="mscloud-redis" />
-        <module name="mscloud-auth" />
-        <module name="mscloud-ribbon" />
-        <module name="mscloud-springboot" />
         <module name="zuul-gateway" />
-        <module name="mscloud-log" />
-        <module name="mscloud-sentinel" />
-        <module name="system-center" />
+        <module name="mscloud-common-auth" />
+        <module name="mscloud-mesh-config" />
+        <module name="mscloud-common-springboot" />
+        <module name="mscloud-common-ribbon" />
+        <module name="mscloud-common-sentinel" />
         <module name="mscloud-oauth" />
-        <module name="mscloud-db" />
-        <module name="mscloud-swagger2" />
+        <module name="mscloud-common-swagger2" />
+        <module name="system-center" />
+        <module name="mscloud-common-log" />
+        <module name="mscloud-common-db" />
+        <module name="mscloud-common-redis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
