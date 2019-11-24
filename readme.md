@@ -16,10 +16,15 @@
   
   前端项目技术选型:
     Vue         (https://vuejs.org/)
+    
     Vue-router  (https://router.vuejs.org/)
+    
     Vuex        (https://vuex.vuejs.org/)
+    
     Element | 前端UI框架 | [https://element.eleme.io/](https://element.eleme.io/)
+    
     Axios | 前端HTTP框架 | [https://github.com/axios/axios](https://github.com/axios/axios)
+    
    
     node安装 下载地址:https://nodejs.org/zh-cn/download/releases/
     
