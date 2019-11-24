@@ -14,6 +14,10 @@ mscm采用前后端分离
    mscloud-mesh-user:统一api安全验证中心
    
    
+   
+   
+   
+   
    注册中心采用Nacos:
 
    Nacos安装
