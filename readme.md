@@ -1,6 +1,6 @@
  模块说明:
    
-   mscloud-common:基础模块
+   mscloud-common:基础模块(包括统一日志管理、redis服务、断路监控、权限认证管理、swagger API文档管理、数据库管理等)
    
    mscloud-mesh-business:业务模块服务集群
    
@@ -9,6 +9,7 @@
    mscloud-mesh-gateway:智能路由网关
    
    mscloud-mesh-user:统一api安全验证中心
+   
 
 
   1.注册中心Nacos安装说明:
