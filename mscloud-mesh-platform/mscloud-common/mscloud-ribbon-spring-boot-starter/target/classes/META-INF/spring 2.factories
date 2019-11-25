@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.mscloudmesh.ribbon.RibbonAutoConfigure,\
+com.mscloudmesh.ribbon.FeignAutoConfigure,\
+com.mscloudmesh.ribbon.RestTemplateAutoConfigure
