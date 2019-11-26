@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>mscloud-swagger2-spring-boot-starter</artifactId>
+    <artifactId>mscloud-common-swagger2</artifactId>
 
 
     <description>swagger通用组件</description>

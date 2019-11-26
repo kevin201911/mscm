@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>mscloud-db-spring-boot-starter</artifactId>
+    <artifactId>mscloud-common-db</artifactId>
 
 
     <description>数据库通用组件</description>

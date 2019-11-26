@@ -1,9 +1,9 @@
 package com.mscloudmesh.gateway.feign;
 
 
-import com.mscloudmesh.gateway.feign.fallback.MenuServiceFallbackFactory;
 import com.mscloudmesh.common.constant.ServiceNameConstants;
 import com.mscloudmesh.common.model.SysPermission;
+import com.mscloudmesh.gateway.feign.fallback.MenuServiceFallbackFactory;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
