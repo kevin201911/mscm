@@ -63,32 +63,32 @@ zuul:
   routes:
     auth:
       path: /api-uaa/**
-      service-id: uaa-server
+      service-id: auth-server
       strip-prefix: true
       custom-sensitive-headers: true
     auth-login-page:
       path: /login.html
-      service-id: uaa-server
+      service-id: auth-server
       strip-prefix: true
       custom-sensitive-headers: true
     auth-login-process:
       path: /user/login
-      service-id: uaa-server
+      service-id: auth-server
       strip-prefix: true
       custom-sensitive-headers: true
     auth-login-token:
       path: /oauth/token
-      service-id: uaa-server
+      service-id: auth-server
       strip-prefix: true
       custom-sensitive-headers: true
     auth-login-authorize:
       path: /oauth/authorize
-      service-id: uaa-server
+      service-id: auth-server
       strip-prefix: true
       custom-sensitive-headers: true
     auth-check-process:
       path: /oauth/check_token
-      service-id: uaa-server
+      service-id: auth-server
       strip-prefix: true
       custom-sensitive-headers: true
     user:

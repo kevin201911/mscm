@@ -7,7 +7,7 @@ mall:
 
 spring:
   application:
-    name: uaa-server
+    name: auth-server
   cloud:
     nacos:
       config:
